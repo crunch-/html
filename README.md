@@ -4,7 +4,7 @@ HTML templating to work with observable.js
 
 Typical including:
 
-<script type="text/javascript" src="script/html.js#global"></script>
+&lt;script type="text/javascript" src="script/html.js#global"&gt;&lt;/script&gt;
 
 Parameter "global" exposes functions such as DIV, SPAN, INPUT and others into a global name space.
 
